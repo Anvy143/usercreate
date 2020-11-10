@@ -1,0 +1,13 @@
+users:
+
+   - name: Ram
+     uid: 1004
+     first: lakha
+     last: kumar
+
+
+
+   - name: Sham
+     uid: 1005
+     first: samma
+     last: kumar
